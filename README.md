@@ -92,7 +92,7 @@ plt.show()
  ## Basic Data Analysis of the Iris Dataset
    # 1.Overall Statistics (.describe())
    
-   Metric | Sepal Length | Sepal Width | Petal Length | Petal Width
+     Metric | Sepal Length | Sepal Width | Petal Length | Petal Width
    
       Mean | 5.84         | 3.05        | 3.76         | 1.20
      
@@ -104,7 +104,7 @@ plt.show()
   
   # 2.Mean Values Grouped by Species
   
-   Species | Sepal Length | Sepal Width | Petal Length | Petal Width
+     Species | Sepal Length | Sepal Width | Petal Length | Petal Width
    
     Setosa | 5.01         | 3.42        | 1.46         | 0.24
     
