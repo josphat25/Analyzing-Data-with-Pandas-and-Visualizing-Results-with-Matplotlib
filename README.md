@@ -94,13 +94,13 @@ plt.show()
    
    Metric | Sepal Length | Sepal Width | Petal Length | Petal Width
    
-     Mean | 5.84         | 3.05        | 3.76         | 1.20
+      Mean | 5.84         | 3.05        | 3.76         | 1.20
      
-   Median | 5.80         | 3.00        | 4.35         | 1.30
+    Median | 5.80         | 3.00        | 4.35         | 1.30
    
-  Std Dev | 0.83         | 0.43        | 1.76         | 0.76
+   Std Dev | 0.83         | 0.43        | 1.76         | 0.76
   
-  Min/Max | 4.3 – 7.9    | 2.0 – 4.4   | 1.0 – 6.9    | 0.1 – 2.5
+   Min/Max | 4.3 – 7.9    | 2.0 – 4.4   | 1.0 – 6.9    | 0.1 – 2.5
   
   # 2.Mean Values Grouped by Species
   
@@ -108,9 +108,9 @@ plt.show()
    
     Setosa | 5.01         | 3.42        | 1.46         | 0.24
     
-Versicolor | 5.94         | 2.77        | 4.26         | 1.33
+ Versicolor | 5.94         | 2.77        | 4.26         | 1.33
 
- Virginica | 6.59         | 2.97        | 5.55         | 2.03
+  Virginica | 6.59         | 2.97        | 5.55         | 2.03
  
  ## TaskInteresting Findings
 Setosa flowers have notably smaller petal length and width compared to the other two species — making them visually easy to separate.
