@@ -108,9 +108,9 @@ plt.show()
    
     Setosa | 5.01         | 3.42        | 1.46         | 0.24
     
-  Versicolor | 5.94         | 2.77        | 4.26         | 1.33
+   Versicolor | 5.94         | 2.77        | 4.26         | 1.33
 
-   Virginica | 6.59         | 2.97        | 5.55         | 2.03
+    Virginica | 6.59         | 2.97        | 5.55         | 2.03
  
  ## TaskInteresting Findings
 Setosa flowers have notably smaller petal length and width compared to the other two species — making them visually easy to separate.
